@@ -1,0 +1,4 @@
+Host steve.bitbucket
+  User steviesteve55
+  HostName bitbucket.org
+  IdentityFile ~/.ssh/id_rsa_local
